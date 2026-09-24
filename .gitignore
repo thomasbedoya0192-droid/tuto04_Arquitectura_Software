@@ -1,0 +1,21 @@
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Archivos de Python generados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Base de datos local SQLite antigua
+*.sqlite3
+
+# Logs
+*.log
+pagos_manuales.log
+
+# Archivos de configuración del sistema y editores
+.DS_Store
+.vscode/
+.idea/
