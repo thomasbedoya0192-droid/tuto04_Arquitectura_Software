@@ -2,11 +2,14 @@
 venv/
 env/
 .venv/
+.env
 
 # Archivos de Python generados
 __pycache__/
 *.py[cod]
 *$py.class
+*.pem
+*.key
 
 # Base de datos local SQLite antigua
 *.sqlite3
